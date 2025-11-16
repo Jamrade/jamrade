@@ -4,9 +4,11 @@ My name is James, I am a data solutions lead for Amazon's Machine Learning divis
 In my free time I develop financial tools that help people invest algorithmically
 without extensive technical knowledge
 
-🔭 
+🔭 I’m currently working on the following:
 
-🌱 I’m currently working on the following:
+1. Blueprint based investment platform
+2. CNN price action investment advisor
+3. RNN technical analysis investment advisor
 
 
 <!--
