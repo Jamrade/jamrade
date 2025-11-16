@@ -1,10 +1,13 @@
 ## Hi there 👋
 
-🔭 I’m currently working on an extension that allows people with no coding experience to automate foreing exchange trading
+My name is James, I am a data solutions lead for Amazon's Machine Learning division.
+In my free time I develop financial tools that help people invest algorithmically
+without extensive technical knowledge
 
-🌱 I’m currently Learning the following:
+🔭 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/673a7e21f20970fd487c4e1d?variant=dark)](https://roadmap.sh)
+🌱 I’m currently working on the following:
+
 
 <!--
 **Jamrade/jamrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
