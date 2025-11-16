@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 My name is James, I am a data solutions lead for Amazon's Machine Learning division.
+
 In my free time I develop financial tools that help people invest algorithmically
 without extensive technical knowledge
 
