@@ -6,9 +6,9 @@ without extensive technical knowledge
 
 🔭 I’m currently working on the following:
 
-1. Blueprint based investment platform
-2. CNN price action investment advisor
-3. RNN technical analysis investment advisor
+1. Blueprint based investment platform ![30%](https://progress-bar.xyz/30)
+3. CNN price action investment advisor
+4. RNN technical analysis investment advisor
 
 
 <!--
