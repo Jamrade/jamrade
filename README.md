@@ -8,7 +8,7 @@ without extensive technical knowledge
 🔭 I’m currently working on the following:
 
 1. Blueprint based investment platform
-![30%](https://progress-bar.xyz/30)
+[50%](https://progress-bar.xyz/30)
 3. CNN price action investment advisor
 ![25%](https://progress-bar.xyz/25)
 5. RNN technical analysis investment advisor
