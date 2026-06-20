@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-My name is James, I am a data solutions lead for Amazon's Machine Learning division.
+My name is James, I train models on software engineering
 
 In my free time I develop financial tools that help people invest algorithmically
 without extensive technical knowledge
 
 🔭 I’m currently working on the following:
 
-1. Blueprint based investment platform
-![50%](https://progress-bar.xyz/50)
-3. CNN price action investment advisor
-![25%](https://progress-bar.xyz/25)
+1. Low Code Investment Platform
+![75%](https://progress-bar.xyz/75)
+3. No Code Data Science Platform
+![35%](https://progress-bar.xyz/35)
 5. RNN technical analysis investment advisor
 ![0%](https://progress-bar.xyz/0)
 
